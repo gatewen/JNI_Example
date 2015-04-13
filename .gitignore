@@ -1,0 +1,11 @@
+*.obj
+.metadata
+JniExample/.classpath
+JniExample/.cproject
+JniExample/.project
+JniExample/.settings
+JniExample/bin
+JniExample/gen
+JniExample/libs/armeabi
+JniExample/obj/
+RemoteSystemsTempFiles/
